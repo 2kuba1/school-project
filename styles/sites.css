@@ -91,3 +91,11 @@ body {
 .sites-div:hover{
     scale: 1.1;
 }
+
+.link{
+    color: black;
+}
+
+.link:visited{
+    color: #C5283D;
+}

@@ -1,0 +1,60 @@
+.github-image{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.image:hover{
+    scale: 1.05;
+}
+
+div{
+    flex-direction: column;
+    gap: 50px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.image{
+    height: 200px;
+    transition: 0.2s ease-in-out;
+}
+
+h1{
+    font-size: 96px;
+    text-indent: 150px;
+}
+
+.title-parent{
+    position: relative;
+    top: 25px;
+}
+
+.desc-text{
+    font-size: 32px;
+    text-indent: 150px;
+}
+
+.desc{
+    position: relative;
+    top: 50px;
+    left: 150px;
+
+    height: 300px;
+    width: 1600px;
+}
+
+.example-github-image{
+    scale: 75%;
+}
+
+.example-github-text{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    position: relative;
+    top: 75px;
+}
