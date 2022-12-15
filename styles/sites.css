@@ -1,0 +1,91 @@
+.sites-container{
+    flex-direction: column;
+    gap: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sites-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+    border: 5px solid black;
+    border-radius: 40px;
+    padding: 10px;
+    transition: 0.2s ease-in-out;
+}
+
+body {
+    height: 180vh!important;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content {
+    width: 75%;
+}
+
+#github-img{
+    background-image: url('../images/github.svg');
+    background-size: cover;
+    background-position: center center;
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+}
+
+#youtube-img{
+    background-image: url('../images/youtube-logo.png');
+    background-size: cover;
+    background-position: center center;
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    outline: 2px solid black;
+}
+
+#mdn-img{
+    background-image: url('../images/mdn.png');
+    background-size: cover;
+    background-position: center center;
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    outline: 2px solid black;
+}
+
+#spotify-img{
+    background-image: url('../images/spotify-logo.webp');
+    background-size: cover;
+    background-position: center center;
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    outline: 2px solid black;
+}
+
+#stack-img {
+    background-image: url('../images/stackoverflow.png');
+    background-size: cover;
+    background-position: center center;
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    outline: 2px solid black;
+}
+
+#chatgpt-logo{
+    background-image: url('../images/chatgpt.png');
+    background-size: cover;
+    background-position: center center;
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    outline: 2px solid black;
+}
+
+.sites-div:hover{
+    scale: 1.1;
+}

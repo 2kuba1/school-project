@@ -10,7 +10,7 @@ const imagesSrc = [
   'images/mdn.png',
   'images/spotify.png',
   'images/stackoverflow.png',
-   'images/youtube.jpg',
+  'images/youtube.jpg',
   'images/github-slider.png',
 ];
 
