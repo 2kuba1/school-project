@@ -1,4 +1,4 @@
-.github-image{
+.site-image{
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -47,11 +47,11 @@ h1{
     width: 1600px;
 }
 
-.example-github-image{
+.example-image{
     scale: 75%;
 }
 
-.example-github-text{
+.example-text{
     justify-content: center;
     display: flex;
     align-items: center;
