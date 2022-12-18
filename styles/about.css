@@ -1,0 +1,62 @@
+.logo-img{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    scale: 1.25;
+    transition: 0.2s ease-in-out;
+}
+
+.logo-img:hover{
+    scale: 1.50;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    position: relative;
+    top: 60px;
+    font-size: 64px;
+    cursor: pointer;
+}
+
+.text{
+    position: relative;
+    top: 150px;
+    width: 500px;
+    text-align: center;
+}
+
+p{
+    font-size: 36px;
+    transition: 0.2s ease-in-out;
+    cursor: default;
+}
+
+p:hover{
+    scale: 1.1;
+}
+
+h1:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    background-color: #C5283D;
+    transition: all 0.25s ease-in-out;
+}
+
+h1:hover:before {
+    width: 100%;
+}
+
+h1:hover{
+    font-weight: bold;
+    transition: all 0.25s ease-in-out;
+}
