@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2eab5835-4b45-420e-9cb0-4fc0b122844e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chatgpt.html" beforeDir="false" afterPath="$PROJECT_DIR$/chatgpt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/github.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -10,7 +11,6 @@
       <change beforePath="$PROJECT_DIR$/sites.html" beforeDir="false" afterPath="$PROJECT_DIR$/sites.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spotify.html" beforeDir="false" afterPath="$PROJECT_DIR$/spotify.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stackoverflow.html" beforeDir="false" afterPath="$PROJECT_DIR$/stackoverflow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/sites-global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/sites-global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/youtube.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +83,7 @@
       <workItem from="1671143821734" duration="3940000" />
       <workItem from="1671226099320" duration="1731000" />
       <workItem from="1671312869541" duration="110000" />
-      <workItem from="1671362609635" duration="2681000" />
+      <workItem from="1671362609635" duration="2942000" />
     </task>
     <servers />
   </component>
